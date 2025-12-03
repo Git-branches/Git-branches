@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Rhon%20Jon&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Rhon%20Jon%20Romero&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Header"/>
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=950&height=180&lines=Full+Stack+Web+Developer;Based+in+General+Santos+City%2C+PH+9500;Tech+Stack%3A+PHP+%7C+JavaScript+%7C+MySQL+%7C+HTML5;Frameworks%3A+TailwindCSS+%7C+Bootstrap;Currently+Exploring%3A+React+%7C+Laravel+%7C+jQuery;BS+Information+Technology+Graduate+%F0%9F%8E%93" alt="Typing SVG"/>
 </div>
