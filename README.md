@@ -164,8 +164,6 @@ _💡 Refresh the page to see a new quote!_
 
 <div align="center">
 
-### 💖 Show some love by starring ⭐ some of my repositories!
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### ⭐️ From [Git-branches](https://github.com/Git-branches)
