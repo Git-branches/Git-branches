@@ -1,29 +1,28 @@
-<div align="center">
-
-# 👋 Hi there, I'm Kulotskie!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&background=0D1117&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;PHP+%7C+MySQL+%7C+JS+%7C+HTML+%7C+TailwindCSS;Building+Awesome+Systems;Always+Learning+New+Things!" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Git-branches&color=blueviolet&style=for-the-badge)](https://github.com/Git-branches)
-
-</div>
 
 ---
 
-### 💻 About me for the Vibe Coding HAHHAAH
-
-[![Code Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=1800&color=00D4FF&width=950&height=200&lines=%F0%9F%91%8B+Hello%21+I%27m+Rhon+Jon+G.+Romero;%F0%9F%8C%8D+Based+in+General+Santos%2C+South+Cotabato;%F0%9F%92%BB+Full+Stack+Web+Developer;%E2%9C%A8+Tech+Stack%3A+PHP+%7C+JS+%7C+MySQL+%7C+HTML5+%7C+TailwindCSS;%F0%9F%93%9A+Currently+Learning%3A+React+%7C+Laravel+%7C+jQuery;%F0%9F%8E%93+Education%3A+South+East+Asian+Institute+of+Tech;%F0%9F%93%96+Degree%3A+BS+Information+Technology+(BSIT))](https://git.io/typing-svg)
-
+<div align="center">
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Rhon%20Jon&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Header"/>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=950&height=180&lines=Full+Stack+Web+Developer;Based+in+General+Santos+City%2C+PH+9500;Tech+Stack%3A+PHP+%7C+JavaScript+%7C+MySQL+%7C+HTML5;Frameworks%3A+TailwindCSS+%7C+Bootstrap;Currently+Exploring%3A+React+%7C+Laravel+%7C+jQuery;BS+Information+Technology+Graduate+%F0%9F%8E%93" alt="Typing SVG"/>
 </div>
 
+---
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 ### 💡 What I Do:
 
-- 🌱 Learning **React.js**, **Laravel**  and **Modern Web Development**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **PHP, MySQL, Web Development**
-- ⚡ Fun fact: **I love coding while listening to music 🎵**
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=FFFFFF&repeat=true&width=600&lines=%F0%9F%8C%A1+Learning%3A+React.js%2C+Laravel%2C+Modern+Web+Development" alt="Learning"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=FFFFFF&repeat=true&width=600&lines=%F0%9F%91%AB+Looking+to+collaborate+on+Open+Source+Projects" alt="Collaborate"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=FFFFFF&repeat=true&width=600&lines=%F0%9F%92%AC+Ask+me+about%3A+PHP%2C+MySQL%2C+Web+Development" alt="Ask me about"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=FFFFFF&repeat=true&width=600&lines=%E2%9A%A1+Fun+fact%3A+I+love+coding+while+listening+to+music+%F0%9F%8E%B5" alt="Fun fact"/>
+</div>
 
 ---
 
@@ -151,14 +150,18 @@ _💡 Refresh the page to see a new quote!_
 
 ---
 
-## 🎯 Current Goals for 2026
 
-- ✅ Master PHP & MySQL
-- 🔄 Learn React.js, Laravel and Jquery
-- 🔄 Build 10+ Open Source Projects
-- ⬜ Contribute to Major Open Source Projects
-- ⬜ Learn Docker & DevOps
-- ⬜ Build a SaaS Product
+### 🎯 2026 Development Goals:
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=2E9EF7&repeat=true&width=600&lines=%E2%AD%90+Accomplished%3A+PHP+%26+MySQL+Expertise" alt="Goal 1"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=2E9EF7&repeat=true&width=600&lines=%F0%9F%93%9A+Currently+Learning%3A+React.js+%7C+Laravel+%7C+jQuery" alt="Goal 2"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=2E9EF7&repeat=true&width=600&lines=%F0%9F%93%81+Planning%3A+Open+Source+Contributions" alt="Goal 3"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=2E9EF7&repeat=true&width=600&lines=%F0%9F%9B%A0+Future%3A+Docker+%26+DevOps+Learning" alt="Goal 4"/>
+</div>
 
 ---
 
