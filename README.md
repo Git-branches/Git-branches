@@ -19,7 +19,6 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=FFFFFF&repeat=true&width=600&lines=%F0%9F%92%AC+Ask+me+about%3A+PHP%2C+MySQL%2C+Web+Development" alt="Ask me about"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&pause=1000&color=FFFFFF&repeat=true&width=600&lines=%E2%9A%A1+Fun+fact%3A+I+love+coding+while+listening+to+music+%F0%9F%8E%B5" alt="Fun fact"/>
 </div>
 
 ---
