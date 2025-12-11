@@ -91,8 +91,9 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Git-branches&theme=radical&no-frame=true&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Git-branches&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
 </div>
+
 ---
 
 ## 📫 Connect With Me
