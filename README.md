@@ -90,10 +90,10 @@
 ---
 
 
-## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Git-branches&theme=radical&no-frame=true&margin-w=15&rank=-S&row=2&column=4" alt="Git-branches's Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Git-branches&theme=radical" alt="Trophies"/>
 </div>
 
 ---
