@@ -58,9 +58,6 @@
   <img src="https://img.shields.io/badge/Amazon_Q-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Q" />
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Git-branches/Git-branches/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 ---
 
 ### 📊 GitHub Stats
