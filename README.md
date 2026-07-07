@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Rhon Jon Romero 👋</h1>
+<p align="center">
+  <a href="https://github.com/Git-branches">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Rhon+Jon+Romero+%F0%9F%91%8B;Full-Stack+Web+Developer" alt="Rhon Jon Romero" />
+  </a>
+</p>
 <h3 align="center">Full-Stack Web Developer · General Santos City, Philippines</h3>
 
 <p align="center">
-  <a href="mailto:ejromero294@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ejromero294gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:websitecloning@gmail.com">
+    <img src="https://img.shields.io/badge/Email-websitecloning%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -44,18 +48,14 @@
 <p>
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" />
-  <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white" alt="Codeium" />
-  <img src="https://img.shields.io/badge/Cline-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cline" />
-  <img src="https://img.shields.io/badge/Aider-FF6B35?style=for-the-badge&logo=python&logoColor=white" alt="Aider" />
-  <img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt.new" />
-  <img src="https://img.shields.io/badge/Replit_AI-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit AI" />
-  <img src="https://img.shields.io/badge/Amazon_Q-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Q" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy-one.vercel.app/?username=Git-branches&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub trophies" />
 </p>
 
 ---
@@ -73,4 +73,15 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-branches&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Git-branches/Git-branches/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Git-branches/Git-branches/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
