@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer · General Santos City, Philippines</h3>
 
 <p align="center">
-  <a href="mailto:websitecloning@gmail.com">
+  <a href="mailto:ejromero294@gmail.com">
     <img src="https://img.shields.io/badge/Email-websitecloning%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -44,6 +44,18 @@
 <p>
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white" alt="Codeium" />
+  <img src="https://img.shields.io/badge/Cline-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cline" />
+  <img src="https://img.shields.io/badge/Aider-FF6B35?style=for-the-badge&logo=python&logoColor=white" alt="Aider" />
+  <img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt.new" />
+  <img src="https://img.shields.io/badge/Replit_AI-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit AI" />
+  <img src="https://img.shields.io/badge/Amazon_Q-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Q" />
 </p>
 
 ---
