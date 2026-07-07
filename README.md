@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:ejromero294@gmail.com">
-    <img src="https://img.shields.io/badge/Email-websitecloning%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ejromero294gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
