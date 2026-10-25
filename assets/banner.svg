@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
   <title id="title">Rhon Jon Romero — Full-Stack Web Developer</title>
-  <desc id="desc">Banner with Rhon Jon Romero's name, role, location in General Santos City, tech stack.</desc>
+  <desc id="desc">Banner with Rhon Jon Romero's name, role, location in General Santos City, and tech stack.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d0f17"/>
