@@ -1,20 +1,47 @@
-<p align="center">
-  <a href="https://github.com/Git-branches">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Rhon+Jon+Romero+%F0%9F%91%8B;Full-Stack+Web+Developer" alt="Rhon Jon Romero" />
-  </a>
-</p>
-<h3 align="center">Full-Stack Web Developer · General Santos City, Philippines</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:ejromero294@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ejromero294@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://github.com/Git-branches">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Rhon+Jon+Romero+%F0%9F%91%8B;Full-Stack+Web+Developer;I+build+clean%2C+fast+web+apps+%F0%9F%9A%80;PHP+%C2%B7+JavaScript+%C2%B7+MySQL" alt="Rhon Jon Romero" />
+</a>
+
+### Full-Stack Web Developer · General Santos City, Philippines 🇵🇭
+
+<p>
+  <a href="mailto:ejromero294@gmail.com"><img src="https://img.shields.io/badge/Email-ejromero294@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Git-branches"><img src="https://img.shields.io/badge/GitHub-Git--branches-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Git-branches?label=Followers&style=flat-square&color=36BCF7" alt="followers" />
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+I'm a full-stack web developer who enjoys turning ideas into working, polished web applications, from the database and PHP backend to a responsive, good-looking frontend.
+
+- 🔭 **Currently working on:** web systems built with PHP, MySQL, and modern CSS
+- 🌱 **Currently learning:** deeper JavaScript, API design, and Tailwind workflows
+- 🤖 **I use AI tools** (Claude, ChatGPT) to speed up development, debug faster, and learn new concepts
+- 💬 **Ask me about:** PHP, MySQL, Bootstrap, Tailwind CSS, and deploying with cPanel
+- 📫 **Reach me:** [ejromero294@gmail.com](mailto:ejromero294@gmail.com)
+
+```js
+const rhon = {
+  role: "Full-Stack Web Developer",
+  location: "General Santos City, PH",
+  stack: ["PHP", "JavaScript", "MySQL", "Bootstrap", "Tailwind CSS"],
+  tools: ["VS Code", "Git", "GitHub", "XAMPP", "cPanel"],
+  aiAssisted: true,
+  lookingFor: "Projects worth building well ☕",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -52,36 +79,64 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 📌 Featured Projects
 
+<!-- Replace each entry below with your own pinned repos. -->
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| 🔗 [**Project One**](https://github.com/Git-branches/your-repo) | A short, one-line description of what it does and who it's for. | `PHP` `MySQL` `Bootstrap` |
+| 🔗 [**Project Two**](https://github.com/Git-branches/your-repo) | A short, one-line description of what it does and who it's for. | `JavaScript` `Tailwind CSS` |
+| 🔗 [**Project Three**](https://github.com/Git-branches/your-repo) | A short, one-line description of what it does and who it's for. | `PHP` `MySQL` |
+
+> 💡 Tip: you can also show your real pinned repos automatically with
+> `https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Git-branches&repo=YOUR_REPO&theme=tokyonight`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Git-branches&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Git-branches&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=Git-branches&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-branches&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%" />
+
+</div>
+
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br />
 <p align="center">
   <img src="https://github-profile-trophy-one.vercel.app/?username=Git-branches&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub trophies" />
 </p>
+</details>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Git-branches&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Git-branches&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Git-branches&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-branches&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
-
----
-
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Git-branches/Git-branches/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Git-branches/Git-branches/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
   </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to freelance work, collaborations, and conversations about web development.
+
+<p align="center">
+  <a href="mailto:ejromero294@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://github.com/Git-branches?tab=repositories"><img src="https://img.shields.io/badge/Browse_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="My repos" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1a1b27&height=100&section=footer" alt="footer" />
 </p>
