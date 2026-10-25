@@ -48,19 +48,43 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**Andam GenSan**](https://github.com/Git-branches/GensanService) | Independent guide to government service requirements, document checklists, and offices in General Santos City, with an admin panel for keeping guides verified. | `React` `Tailwind CSS` `PHP` `MySQL` |
-| [**RubricMind**](https://github.com/Git-branches/RubricMind) | AI assistance for checking essays against a rubric. | `PHP` |
-| [**Tampakan Tourism**](https://github.com/Git-branches/TampakanTourism) | Tourism website for Tampakan, South Cotabato. | `PHP` |
-| [**Student Management System**](https://github.com/Git-branches/student-m-system) | Student management system with five integrated security features. | `PHP` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Git-branches/GensanService">Andam GenSan</a></h3>
+      <p>Shows GenSan residents what to bring, which steps to follow, and where to go for government services. Includes an admin panel for keeping every guide verified.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Git-branches/RubricMind">RubricMind</a></h3>
+      <p>Uses AI to help teachers check essays against a rubric.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/AI-12A12F?style=flat-square" alt="AI" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Git-branches/TampakanTourism">Tampakan Tourism</a></h3>
+      <p>Tourism website for Tampakan, South Cotabato.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Git-branches/student-m-system">Student Management System</a></h3>
+      <p>Manages student records, with five security features built in.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Git-branches&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Git-branches&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Git-branches&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-branches&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=Git-branches&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
