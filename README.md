@@ -1,8 +1,10 @@
-[![Rhon Jon Romero — Full-Stack Web Developer](./assets/banner.svg)](https://github.com/Git-branches?tab=repositories)
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=I+build+clean%2C+fast+web+apps+%F0%9F%9A%80;From+the+database+to+the+pixels;PHP+%C2%B7+JavaScript+%C2%B7+MySQL+%C2%B7+React" alt="I build clean, fast web apps" />
+<a href="https://github.com/Git-branches?tab=repositories">
+  <img src="./assets/banner.svg" alt="Hi, I'm Rhon Jon Romero — Full-Stack Web Developer" width="100%" />
+</a>
+
+### General Santos City, Philippines 🇵🇭
 
 <p>
   <a href="mailto:ejromero294@gmail.com"><img src="https://img.shields.io/badge/Email-ejromero294@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
