@@ -4,11 +4,8 @@
   <img src="./assets/banner.svg" alt="Hi, I'm Rhon Jon Romero — Full-Stack Web Developer" width="100%" />
 </a>
 
-### General Santos City, Philippines 🇵🇭
-
 <p>
   <a href="mailto:ejromero294@gmail.com"><img src="https://img.shields.io/badge/Email-ejromero294@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Git-branches"><img src="https://img.shields.io/badge/GitHub-Git--branches-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
@@ -26,18 +23,6 @@ I'm a full-stack web developer who enjoys turning ideas into working, polished w
 - 🌱 **Currently learning:** deeper JavaScript, API design, and Tailwind workflows
 - 🤖 **I use AI tools** (Claude, ChatGPT) to speed up development, debug faster, and learn new concepts
 - 💬 **Ask me about:** PHP, MySQL, Bootstrap, Tailwind CSS, and deploying with cPanel
-- 📫 **Reach me:** [ejromero294@gmail.com](mailto:ejromero294@gmail.com)
-
-```js
-const rhon = {
-  role: "Full-Stack Web Developer",
-  location: "General Santos City, PH",
-  stack: ["PHP", "JavaScript", "MySQL", "Bootstrap", "Tailwind CSS"],
-  tools: ["VS Code", "Git", "GitHub", "XAMPP", "cPanel"],
-  aiAssisted: true,
-  lookingFor: "Projects worth building well ☕",
-};
-```
 
 ---
 
