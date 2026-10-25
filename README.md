@@ -2,30 +2,24 @@
 
 [![Rhon Jon G. Romero — Aspiring Full Stack Developer, General Santos City](./assets/banner-green.svg)](https://github.com/Git-branches?tab=repositories)
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![Email](https://img.shields.io/badge/email-ejromero294%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ejromero294@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Git-branches?label=Followers&style=flat-square&color=36BCF7)
+<p align="center">
+  <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square" alt="standard-readme compliant" /></a>
+  <a href="mailto:ejromero294@gmail.com"><img src="https://img.shields.io/badge/email-ejromero294%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Git-branches?label=Followers&style=flat-square&color=36BCF7" alt="Followers" />
+</p>
 
-Aspiring full stack developer from General Santos City building PHP, MySQL, and React web apps.
+## About Me
 
-I'm Rhon, a web developer from General Santos City. I like building systems that people around me actually use: a school tracking its students, an office keeping employee records, a vet clinic managing its patients.
+Kumusta! I'm Rhon, an aspiring full stack developer from General Santos City. I learn best by building things for real people, so most of my projects start close to home: a school that needs to track its students, an office that wants its employee records in one place, a vet clinic managing its patients.
 
-Right now I'm working on **[Andam GenSan](https://github.com/Git-branches/GensanService)**. It's a guide that tells GenSan residents what to bring before they line up at SSS, PhilHealth, PSA, or City Hall, so nobody has to go home for a missing photocopy. Before that I built **[RubricMind](https://github.com/Git-branches/RubricMind)**, which uses AI to help teachers check essays against a rubric.
+**What I'm building now.** [Andam GenSan](https://github.com/Git-branches/GensanService) is an independent guide for GenSan residents dealing with government offices. You look up a service, such as requesting a PSA birth certificate, and it shows what to bring, the steps to follow, and which office to visit, so nobody has to go home for a missing photocopy. Behind it is an admin panel where staff publish guides, track when each one was last verified against official sources, and review corrections sent in by residents.
 
-Most of my work is PHP and MySQL with Bootstrap or Tailwind on top, and lately React. I usually deploy on cPanel, so I make sure what I build runs on regular shared hosting, not just on my own machine.
+**How I like to work.** I start with the database and work up to the screen. On the backend I care about the unglamorous parts that make a system trustworthy: validating every input on the server, prepared statements, role-based access, and error messages people can actually understand. On the frontend I want pages that load fast and still work on a cheap phone. Most of my projects run on PHP and MySQL with Bootstrap or Tailwind, deployed on cPanel shared hosting, so I build for the servers people can actually afford.
 
-I use Claude and ChatGPT to debug faster and learn new things, and I test everything they suggest before it ships. These days I'm going deeper into JavaScript and API design.
+**What I'm learning.** React, deeper JavaScript, and REST API design. I use Claude and ChatGPT as study partners and debugging help, and I make sure I understand and test every change before I keep it.
 
-## Table of Contents
-
-- [Tech Stack](#tech-stack)
-- [Featured Projects](#featured-projects)
-- [GitHub Stats](#github-stats)
-- [Contribution Snake](#contribution-snake)
-- [Contact](#contact)
-- [Contributing](#contributing)
-- [License](#license)
+**What I'm looking for.** Freelance projects, collaborations, and a team where I can keep growing as a developer. If you're building something for your community, I'd love to hear about it.
 
 ## Tech Stack
 
