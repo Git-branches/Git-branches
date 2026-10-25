@@ -1,10 +1,8 @@
+[![Rhon Jon Romero — Full-Stack Web Developer](./assets/banner.svg)](https://github.com/Git-branches?tab=repositories)
+
 <div align="center">
 
-<a href="https://github.com/Git-branches">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Rhon+Jon+Romero+%F0%9F%91%8B;Full-Stack+Web+Developer;I+build+clean%2C+fast+web+apps+%F0%9F%9A%80;PHP+%C2%B7+JavaScript+%C2%B7+MySQL" alt="Rhon Jon Romero" />
-</a>
-
-### Full-Stack Web Developer · General Santos City, Philippines 🇵🇭
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=I+build+clean%2C+fast+web+apps+%F0%9F%9A%80;From+the+database+to+the+pixels;PHP+%C2%B7+JavaScript+%C2%B7+MySQL+%C2%B7+React" alt="I build clean, fast web apps" />
 
 <p>
   <a href="mailto:ejromero294@gmail.com"><img src="https://img.shields.io/badge/Email-ejromero294@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -22,7 +20,7 @@
 
 I'm a full-stack web developer who enjoys turning ideas into working, polished web applications, from the database and PHP backend to a responsive, good-looking frontend.
 
-- 🔭 **Currently working on:** web systems built with PHP, MySQL, and modern CSS
+- 🔭 **Currently working on:** [Andam GenSan](https://github.com/Git-branches/GensanService), a guide to government service requirements in General Santos City
 - 🌱 **Currently learning:** deeper JavaScript, API design, and Tailwind workflows
 - 🤖 **I use AI tools** (Claude, ChatGPT) to speed up development, debug faster, and learn new concepts
 - 💬 **Ask me about:** PHP, MySQL, Bootstrap, Tailwind CSS, and deploying with cPanel
@@ -57,6 +55,7 @@ const rhon = {
 <p>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
@@ -81,16 +80,12 @@ const rhon = {
 
 ## 📌 Featured Projects
 
-<!-- Replace each entry below with your own pinned repos. -->
-
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| 🔗 [**Project One**](https://github.com/Git-branches/your-repo) | A short, one-line description of what it does and who it's for. | `PHP` `MySQL` `Bootstrap` |
-| 🔗 [**Project Two**](https://github.com/Git-branches/your-repo) | A short, one-line description of what it does and who it's for. | `JavaScript` `Tailwind CSS` |
-| 🔗 [**Project Three**](https://github.com/Git-branches/your-repo) | A short, one-line description of what it does and who it's for. | `PHP` `MySQL` |
-
-> 💡 Tip: you can also show your real pinned repos automatically with
-> `https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Git-branches&repo=YOUR_REPO&theme=tokyonight`
+| 🔗 [**Andam GenSan**](https://github.com/Git-branches/GensanService) | Independent guide to government service requirements, document checklists, and offices in General Santos City, with an admin panel for keeping guides verified. | `React` `Tailwind CSS` `PHP` `MySQL` |
+| 🔗 [**RubricMind**](https://github.com/Git-branches/RubricMind) | AI assistance for checking essays against a rubric. | `PHP` |
+| 🔗 [**Tampakan Tourism**](https://github.com/Git-branches/TampakanTourism) | Tourism website for Tampakan, South Cotabato. | `PHP` |
+| 🔗 [**Student Management System**](https://github.com/Git-branches/student-m-system) | Student management system with five integrated security features. | `PHP` |
 
 ---
 
