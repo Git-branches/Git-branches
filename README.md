@@ -17,12 +17,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack web developer who enjoys turning ideas into working, polished web applications, from the database and PHP backend to a responsive, good-looking frontend.
+I'm Rhon, a web developer from General Santos City. I like building systems that people around me actually use: a school tracking its students, an office keeping employee records, a vet clinic managing its patients.
 
-- 🔭 **Currently working on:** [Andam GenSan](https://github.com/Git-branches/GensanService), a guide to government service requirements in General Santos City
-- 🌱 **Currently learning:** deeper JavaScript, API design, and Tailwind workflows
-- 🤖 **I use AI tools** (Claude, ChatGPT) to speed up development, debug faster, and learn new concepts
-- 💬 **Ask me about:** PHP, MySQL, Bootstrap, Tailwind CSS, and deploying with cPanel
+Right now I'm working on **[Andam GenSan](https://github.com/Git-branches/GensanService)**. It's a guide that tells GenSan residents what to bring before they line up at SSS, PhilHealth, PSA, or City Hall, so nobody has to go home for a missing photocopy. Before that I built **[RubricMind](https://github.com/Git-branches/RubricMind)**, which uses AI to help teachers check essays against a rubric.
+
+Most of my work is PHP and MySQL with Bootstrap or Tailwind on top, and lately React. I usually deploy on cPanel, so I make sure what I build runs on regular shared hosting, not just on my own machine.
+
+I use Claude and ChatGPT to debug faster and learn new things, and I test everything they suggest before it ships. These days I'm going deeper into JavaScript and API design.
 
 ---
 
