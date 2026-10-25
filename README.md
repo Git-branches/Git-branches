@@ -1,6 +1,6 @@
 # Rhon Jon G. Romero (_Git-branches_)
 
-[![Rhon Jon G. Romero — Aspiring Full Stack Developer, General Santos City](./assets/banner-green.svg)](https://github.com/Git-branches?tab=repositories)
+[![Rhon Jon G. Romero — Aspiring Full Stack Developer, General Santos City](./assets/banner-animated.svg)](https://github.com/Git-branches?tab=repositories)
 
 <p align="center">
   <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square" alt="standard-readme compliant" /></a>
