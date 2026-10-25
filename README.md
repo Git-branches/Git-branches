@@ -88,7 +88,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=Git-branches&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-branches&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/12a12f/Git-branches" alt="Contribution graph" width="100%" />
 
 </div>
 
