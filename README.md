@@ -1,5 +1,3 @@
-# Rhon Jon G. Romero (_Git-branches_)
-
 [![Rhon Jon G. Romero — Aspiring Full Stack Developer, General Santos City](./assets/banner-animated.svg)](https://github.com/Git-branches?tab=repositories)
 
 <p align="center">
