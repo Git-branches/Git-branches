@@ -107,9 +107,9 @@
   </picture>
 </p>
 
-## Contact
+<h2 align="center">Contact</h2>
 
-I'm open to freelance work, collaborations, and conversations about web development.
+<p align="center">I'm open to freelance work, collaborations, and conversations about web development.</p>
 
 <p align="center">
   <a href="mailto:ejromero294@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
@@ -120,10 +120,10 @@ I'm open to freelance work, collaborations, and conversations about web developm
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1a1b27&height=100&section=footer" alt="" />
 </p>
 
-## Contributing
+<h2 align="center">Contributing</h2>
 
-This repository only holds my GitHub profile page. If you spot a broken link or a typo, [open an issue](https://github.com/Git-branches/Git-branches/issues) or send a pull request. For anything else, email me at [ejromero294@gmail.com](mailto:ejromero294@gmail.com).
+<p align="center">This repository only holds my GitHub profile page. If you spot a broken link or a typo, <a href="https://github.com/Git-branches/Git-branches/issues">open an issue</a> or send a pull request. For anything else, email me at <a href="mailto:ejromero294@gmail.com">ejromero294@gmail.com</a>.</p>
 
-## License
+<h2 align="center">License</h2>
 
-UNLICENSED © Rhon Jon Romero
+<p align="center">UNLICENSED © Rhon Jon Romero</p>
