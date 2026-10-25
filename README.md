@@ -9,18 +9,6 @@
   <img src="https://img.shields.io/github/followers/Git-branches?label=Followers&style=flat-square&color=36BCF7" alt="Followers" />
 </p>
 
-## About Me
-
-Kumusta! I'm Rhon, an aspiring full stack developer from General Santos City. I learn best by building things for real people, so most of my projects start close to home: a school that needs to track its students, an office that wants its employee records in one place, a vet clinic managing its patients.
-
-**What I'm building now.** [Andam GenSan](https://github.com/Git-branches/GensanService) is an independent guide for GenSan residents dealing with government offices. You look up a service, such as requesting a PSA birth certificate, and it shows what to bring, the steps to follow, and which office to visit, so nobody has to go home for a missing photocopy. Behind it is an admin panel where staff publish guides, track when each one was last verified against official sources, and review corrections sent in by residents.
-
-**How I like to work.** I start with the database and work up to the screen. On the backend I care about the unglamorous parts that make a system trustworthy: validating every input on the server, prepared statements, role-based access, and error messages people can actually understand. On the frontend I want pages that load fast and still work on a cheap phone. Most of my projects run on PHP and MySQL with Bootstrap or Tailwind, deployed on cPanel shared hosting, so I build for the servers people can actually afford.
-
-**What I'm learning.** React, deeper JavaScript, and REST API design. I use Claude and ChatGPT as study partners and debugging help, and I make sure I understand and test every change before I keep it.
-
-**What I'm looking for.** Freelance projects, collaborations, and a team where I can keep growing as a developer. If you're building something for your community, I'd love to hear about it.
-
 ## Tech Stack
 
 **Languages**
