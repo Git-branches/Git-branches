@@ -1,21 +1,13 @@
-<div align="center">
+# Rhon Jon Romero (_Git-branches_)
 
-<a href="https://github.com/Git-branches?tab=repositories">
-  <img src="./assets/banner.svg" alt="Hi, I'm Rhon Jon Romero — Full-Stack Web Developer" width="100%" />
-</a>
+[![Hi, I'm Rhon Jon Romero — Full-Stack Web Developer](./assets/banner.svg)](https://github.com/Git-branches?tab=repositories)
 
-<p>
-  <a href="mailto:ejromero294@gmail.com"><img src="https://img.shields.io/badge/Email-ejromero294@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![Email](https://img.shields.io/badge/email-ejromero294%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ejromero294@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Git-branches?label=Followers&style=flat-square&color=36BCF7)
 
-<img src="https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Git-branches?label=Followers&style=flat-square&color=36BCF7" alt="followers" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
+Full-stack web developer from General Santos City building PHP, MySQL, and React web apps.
 
 I'm Rhon, a web developer from General Santos City. I like building systems that people around me actually use: a school tracking its students, an office keeping employee records, a vet clinic managing its patients.
 
@@ -25,9 +17,17 @@ Most of my work is PHP and MySQL with Bootstrap or Tailwind on top, and lately R
 
 I use Claude and ChatGPT to debug faster and learn new things, and I test everything they suggest before it ships. These days I'm going deeper into JavaScript and API design.
 
----
+## Table of Contents
 
-## 🛠️ Tech Stack
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats](#github-stats)
+- [Contribution Snake](#contribution-snake)
+- [Contact](#contact)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Tech Stack
 
 **Languages**
 
@@ -64,20 +64,16 @@ I use Claude and ChatGPT to debug faster and learn new things, and I test everyt
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
 
----
-
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| 🔗 [**Andam GenSan**](https://github.com/Git-branches/GensanService) | Independent guide to government service requirements, document checklists, and offices in General Santos City, with an admin panel for keeping guides verified. | `React` `Tailwind CSS` `PHP` `MySQL` |
-| 🔗 [**RubricMind**](https://github.com/Git-branches/RubricMind) | AI assistance for checking essays against a rubric. | `PHP` |
-| 🔗 [**Tampakan Tourism**](https://github.com/Git-branches/TampakanTourism) | Tourism website for Tampakan, South Cotabato. | `PHP` |
-| 🔗 [**Student Management System**](https://github.com/Git-branches/student-m-system) | Student management system with five integrated security features. | `PHP` |
+| [**Andam GenSan**](https://github.com/Git-branches/GensanService) | Independent guide to government service requirements, document checklists, and offices in General Santos City, with an admin panel for keeping guides verified. | `React` `Tailwind CSS` `PHP` `MySQL` |
+| [**RubricMind**](https://github.com/Git-branches/RubricMind) | AI assistance for checking essays against a rubric. | `PHP` |
+| [**Tampakan Tourism**](https://github.com/Git-branches/TampakanTourism) | Tourism website for Tampakan, South Cotabato. | `PHP` |
+| [**Student Management System**](https://github.com/Git-branches/student-m-system) | Student management system with five integrated security features. | `PHP` |
 
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -91,16 +87,14 @@ I use Claude and ChatGPT to debug faster and learn new things, and I test everyt
 </div>
 
 <details>
-<summary>🏆 GitHub Trophies</summary>
+<summary>GitHub Trophies</summary>
 <br />
 <p align="center">
   <img src="https://github-profile-trophy-one.vercel.app/?username=Git-branches&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub trophies" />
 </p>
 </details>
 
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -109,9 +103,7 @@ I use Claude and ChatGPT to debug faster and learn new things, and I test everyt
   </picture>
 </p>
 
----
-
-## 🤝 Let's Connect
+## Contact
 
 I'm open to freelance work, collaborations, and conversations about web development.
 
@@ -121,5 +113,13 @@ I'm open to freelance work, collaborations, and conversations about web developm
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1a1b27&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1a1b27&height=100&section=footer" alt="" />
 </p>
+
+## Contributing
+
+This repository only holds my GitHub profile page. If you spot a broken link or a typo, [open an issue](https://github.com/Git-branches/Git-branches/issues) or send a pull request. For anything else, email me at [ejromero294@gmail.com](mailto:ejromero294@gmail.com).
+
+## License
+
+UNLICENSED © Rhon Jon Romero
