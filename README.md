@@ -1,13 +1,13 @@
-# Rhon Jon Romero (_Git-branches_)
+# Rhon Jon G. Romero (_Git-branches_)
 
-[![Hi, I'm Rhon Jon Romero — Full-Stack Web Developer](./assets/banner.svg)](https://github.com/Git-branches?tab=repositories)
+[![Rhon Jon G. Romero — Aspiring Full Stack Developer, General Santos City](./assets/banner.svg)](https://github.com/Git-branches?tab=repositories)
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![Email](https://img.shields.io/badge/email-ejromero294%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ejromero294@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=Git-branches&label=Profile%20views&color=0e75b6&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Git-branches?label=Followers&style=flat-square&color=36BCF7)
 
-Full-stack web developer from General Santos City building PHP, MySQL, and React web apps.
+Aspiring full stack developer from General Santos City building PHP, MySQL, and React web apps.
 
 I'm Rhon, a web developer from General Santos City. I like building systems that people around me actually use: a school tracking its students, an office keeping employee records, a vet clinic managing its patients.
 
