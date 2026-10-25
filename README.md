@@ -1,6 +1,6 @@
 # Rhon Jon G. Romero (_Git-branches_)
 
-[![Rhon Jon G. Romero — Aspiring Full Stack Developer, General Santos City](./assets/banner.svg)](https://github.com/Git-branches?tab=repositories)
+[![Rhon Jon G. Romero — Aspiring Full Stack Developer, General Santos City](./assets/banner-green.svg)](https://github.com/Git-branches?tab=repositories)
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![Email](https://img.shields.io/badge/email-ejromero294%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ejromero294@gmail.com)
